@@ -1,0 +1,8 @@
+Helmet 49 47 185 170
+Helmet 1 284 98 389
+Goggle 119 78 169 179
+Goggle 35 303 97 398
+Vest 233 5 513 215
+Vest 146 282 513 513
+Person 48 1 512 288
+Person 1 262 513 513

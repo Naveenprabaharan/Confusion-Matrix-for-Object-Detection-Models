@@ -1,0 +1,6 @@
+Helmet 1 287 121 428
+Helmet 3 434 119 513
+Goggle 118 432 195 512
+Goggle 99 305 181 423
+Person 1 58 513 491
+Person 6 355 513 513
